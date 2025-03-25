@@ -1,4 +1,10 @@
+# Date : 12/03/2025
+
 # BOOLEAN_FUNCTION_MINIMIZATION
+
+# Name : Syed Abu Hanifa. L
+
+# Registration No. : 212224040346
 
 **AIM:**
 
@@ -35,16 +41,22 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: Syed Abu Hanifa. L RegisterNumber: 212224040346
 
 
 **RTL realization**
+
+![Screenshot 2025-03-25 135522](https://github.com/user-attachments/assets/3f822659-ba19-44f8-8a59-f341e58f1263)
+![Screenshot 2025-03-25 140114](https://github.com/user-attachments/assets/4cc9015a-a15b-434b-ad36-a77441021cb2)
+
 
 **Output:**
 
 **RTL**
 
-**Timing Diagram**
+![Screenshot 2025-03-25 135801](https://github.com/user-attachments/assets/1b9857ef-701c-47df-a5fc-cf07060697ac)
+![image](https://github.com/user-attachments/assets/4de44190-f8b6-4755-903c-c1bceab58d0f)
+
 
 **Result:**
 
